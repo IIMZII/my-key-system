@@ -52,6 +52,16 @@
       "signature": "Wj8WNIuQc2nGHLL5zLyKza8h09Bx2qoG_Y6gq7-Z3np-YBS9tEaNqy1541DB8JiSuBCMR_QyFxnIpcftl_iJBg"
     },
     {
+      "username": "rootx",
+      "salt": "bJZagNklrfKEpmuj4fPIbA",
+      "password_hash": "ISYa5N1NPt_Xk_-_eDbpb32kV6kJAcryaeo09K3g6fg",
+      "iterations": 310000,
+      "created_at": "2026-08-11T14:55:25.975270+00:00",
+      "expires_at": "2026-09-10T14:55:25.975273+00:00",
+      "revoked": false,
+      "signature": "-QpbZeeobTx-WQ834j2DTOPf9yFioH-qJAhXKNS1BbSTEbn-cunF3iopz30_t2ATLoi3VdOipLJXaBoGNCCLBA"
+    },
+    {
       "username": "sew",
       "salt": "fgiNVosaSjgzugfePEFbIw",
       "password_hash": "uiNh89SlBHFZXCb9vxstsO5d75yZQQm-qDG-2IZpaQQ",
